@@ -12,10 +12,10 @@
   "dependencies": {
     "slick": "~1.12.1",
     "commander": "~2.3.0",
-    "cssom": "~0.3.0",
+    "cssom": "0.3.2",
     "superagent": "~0.18.2",
-    "jsdom": "~0.11.1",
-    "pend": "~1.1.2"
+    "jsdom": "11.1.0",
+    "pend": "1.2.0"
   },
   "devDependencies": {
     "should": "~4.0.4",
